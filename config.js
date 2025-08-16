@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 const defaultConfig = {
   SESSION_ID: "TcYliCTa#hwWDweZhRPfoNN6zL60ipISd9wHKaGkBmG_1zACvnvU", // Put your session id here
   ALIVE_IMG: "https://github.com/NNC-BETA/NNC-BETA/blob/main/InShot_20250816_082616005.png",
-  ALIVE_MSG: "*Hello👋 NNC-BETA Is Alive Now😍*", // Change alive msg from here
+  ALIVE_MSG: "*Hello👋 NNC BETA Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "",// Add OPENAI API key here
   GEMINI_API_KEY: "", // Add Gemini API key here
   REMOVE_BG_API_KEY:"", // Add removebg API key here
