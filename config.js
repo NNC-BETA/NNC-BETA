@@ -13,14 +13,14 @@ function convertToBool(text, fault = 'true') {
 
 const defaultConfig = {
   SESSION_ID: "TcYliCTa#hwWDweZhRPfoNN6zL60ipISd9wHKaGkBmG_1zACvnvU", // Put your session id here
-  ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
-  ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
+  ALIVE_IMG: "https://github.com/NNC-BETA/NNC-BETA/blob/main/InShot_20250816_082616005.png",
+  ALIVE_MSG: "*Hello👋 NNC-BETA Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "",// Add OPENAI API key here
   GEMINI_API_KEY: "", // Add Gemini API key here
   REMOVE_BG_API_KEY:"", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
+  BOT_OWNER: "94741692168", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94741692168"], // Replace your bot owner number here (same as bot owner number)
   AUTO_STATUS_REACT: "true",
   AUTO_STATUS_REPLY: "true",
   AUTO_STATUS_SEEN: "true",
