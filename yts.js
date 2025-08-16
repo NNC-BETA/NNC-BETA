@@ -48,7 +48,7 @@ ${formattedResults}
         from,
         {
           image: {
-            url: "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/yts.png?raw=true",
+            url: "https://github.com/NNC-BETA/NNC-BETA/blob/main/InShot_20250816_082616005.png",
           },
           caption,
         },
