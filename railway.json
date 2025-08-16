@@ -14,7 +14,7 @@
     },
     "ALIVE_MSG": {
       "required": false,
-      "default": "*Hello👋 DANUWA-MD Is Alive Now😍*",
+      "default": "*Hello👋 NNC-BETA Is Alive Now😍*",
       "description": "Custom alive message"
     },
     "MOVIE_API_KEY": {
